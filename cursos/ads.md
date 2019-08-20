@@ -25,7 +25,7 @@ Esses diferenciais na formação de habilidades e competências do nosso curso p
 ### Período:
 
 - **Matutino** | 08h00 às 11h40 |
-- **Noturno** | 19h00 às 23h40 |
+- **Noturno** | 19h00 às 22h40 |
 
 Duração: *4 semestres*
 

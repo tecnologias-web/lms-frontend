@@ -50,7 +50,7 @@ Nota 3 na avaliação do ENADE/MEC - 4.º melhor curso da cidade de São Paulo.
 
 Nota 4 na avaliação do ENADE/MEC - 3.º melhor curso da cidade de São Paulo.
 
-[Confirma mais sobre o curso]()
+[Confirma mais sobre o curso](cursos/si.md)
 
 ## Conheça o Smartclass 
 
