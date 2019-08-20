@@ -22,10 +22,17 @@ Nos quatro semestres finais, o aluno aprende a “inovar”, ou seja, aprende a 
 
 ### Período:
 
-- **Matutino** | 08h00 às 11h40 |
-- **Noturno** | 19h00 às 22h40 |
+1. **Matutino** | 08h00 às 11h40 |
+1. **Noturno** | 19h00 às 22h40 |
 
 Duração: *8 semestres*
+
+### Quanto vou investir no meu futuro?
+
+| Período | Investimento |
+|---------|--------------|
+| Matutino | De: ~~R$ 1.000,00~~ Por: R$820,00 |
+| Noturno | De: ~~R$ 1.300,00~~ Por: R$920,00 |
 
 ## Matriz Curricular
 

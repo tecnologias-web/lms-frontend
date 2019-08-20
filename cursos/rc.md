@@ -32,9 +32,16 @@ Além disso, o aluno poderá se preparar para algumas certificações da CISCO e
 
 ### Período:
 
-- **Noturno** | 19h00 às 22h40 |
+1. **Noturno** | 19h00 às 22h40 |
 
 Duração: *4 semestres*
+
+### Quanto vou investir no meu futuro?
+
+| Período | Investimento |
+|---------|--------------|
+| Matutino | De: ~~R$ 1.000,00~~ Por: R$820,00 |
+| Noturno | De: ~~R$ 1.300,00~~ Por: R$920,00 |
 
 ## Matriz Curricular
 

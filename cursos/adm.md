@@ -16,9 +16,16 @@ Gerir equipes, negociar com fornecedores, solucionar diferentes problemas, ating
 
 ### Período:
 
-- **Noturno** | 19h00 às 22h40 |
+1. **Noturno** | 19h00 às 22h40 |
 
 Duração: *8 semestres*
+
+### Quanto vou investir no meu futuro?
+
+| Período | Investimento |
+|---------|--------------|
+| Matutino | De: ~~R$ 1.000,00~~ Por: R$820,00 |
+| Noturno | De: ~~R$ 1.300,00~~ Por: R$920,00 |
 
 ## Matriz Curricular
 
@@ -89,4 +96,3 @@ Duração: *8 semestres*
     - Negócios Internacionais: 80 horas
     - Sistemas Integrados de Gestão: 80 horas
     - Trabalho de Conclusão de Curso 2 -TCC2: 40 horas
-    
