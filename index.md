@@ -40,7 +40,7 @@ Nota 4 na avaliação do ENADE/MEC - 1.º melhor curso da cidade de São Paulo.
 
 Nota 3 na avaliação do ENADE/MEC - 4.º melhor curso da cidade de São Paulo.
 
-[Confirma mais sobre o curso]()
+[Confirma mais sobre o curso](cursos/rc.md)
 
 ### Top 3 ENADE/MEC SP
 
