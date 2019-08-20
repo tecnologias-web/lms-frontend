@@ -20,7 +20,7 @@ Nota 4 na avaliação do MEC – 10.ª maior nota entre as faculdades privadas d
 
 Destaque no portal da Revista Exame como o curso que está entre os melhores do Brasil. (06/2017)
 
-[Confirma mais sobre o curso]()
+[Confirma mais sobre o curso](cursos/adm.md)
 
 ### Maior Nota ENADE SP
 
