@@ -1,21 +1,21 @@
 # Sobre
 
 - [Home](index.md)
- - Cursos
-    - [Análise e Desenvolvimento de Sistemas](cursos/ads.md)
-    - [Sistemas da Informação](cursos/si.md)
-    - [Redes de Computadores](cursos/rc.md)
-    - [Administração](cursos/adm.md)
- - [Sobre](sobre.md)
- - [Contato](contato.md)
- - [Inscreva-se](inscrever.md)
- - [Entrar](entrar.md)
+- Cursos
+  - [Análise e Desenvolvimento de Sistemas](cursos/ads.md)
+  - [Sistemas da Informação](cursos/si.md)
+  - [Redes de Computadores](cursos/rc.md)
+  - [Administração](cursos/adm.md)
+- [Sobre](sobre.md)
+- [Contato](contato.md)
+- [Inscreva-se](inscrever.md)
+- [Entrar](entrar.md)
 
 ---
 
 ## Faculdade Impacta
 
-Fundada em 2003, a **Faculdade Impacta** é considerada uma das melhores instituições de tecnologia da América Latina devido ao seu intenso compromisso com a educação ao longo dos anos e à transformação da sociedade através da tecnologia. 
+Fundada em 2003, a **Faculdade Impacta** é considerada uma das melhores instituições de tecnologia da América Latina devido ao seu intenso compromisso com a educação ao longo dos anos e à transformação da sociedade através da tecnologia.
 
 Referência nas áreas de TI, Gestão e Design, a Impacta conta com cursos de Graduação, Pós-Graduação, Extensão, MBA e cursos técnicos que preparam seus alunos para os desafios do mercado de trabalho, além de um time de mestres e doutores com larga experiência profissional.
 
@@ -33,17 +33,12 @@ Ser o melhor em educação, conhecimento, capacitação e inovação com lideran
 
 ### Valores
 
-Encantar o cliente
-
-Paixão pela excelência e alta performance
-
-Busca de níveis superiores de inovação e conhecimento
-
-Iniciativa e trabalho em equipe com colaboradores comprometidos e criativos
-
-Crescimento com rentabilidade e resultados que superem expectativas
-
-Empreendedorismo com ética e integridade
+Encantar o cliente.  
+Paixão pela excelência e alta performance.  
+Busca de níveis superiores de inovação e conhecimento.  
+Iniciativa e trabalho em equipe com colaboradores comprometidos e criativos.  
+Crescimento com rentabilidade e resultados que superem expectativas.  
+Empreendedorismo com ética e integridade.
 
 ## Conheça o Sistema Smart Class
 
@@ -63,24 +58,24 @@ Alguns cases de sucesso já foram realizados por alunos Impacta, como o Projeto 
 
 ## Infraestrutura
 
- - Salas de aula e laboratórios com equipamentos de última geração;
- - 210 Computadores DELL com processadores Intel Core i7;
- - 4 servidores DELL PowerEdge R620;
- - Mais de 10.000m² de área construída;
- - Conectividade via Wi-Fi Xirrus;
- - Auditório para mais de 200 pessoas;
- - Biblioteca com mais de 20.000 volumes;
- - Estúdio completo de AV;
- - Praça de alimentação;
- - Estacionamento integrado;
- - Acesso total a deficientes físicos.
+- Salas de aula e laboratórios com equipamentos de última geração;
+- 210 Computadores DELL com processadores Intel Core i7;
+- 4 servidores DELL PowerEdge R620;
+- Mais de 10.000m² de área construída;
+- Conectividade via Wi-Fi Xirrus;
+- Auditório para mais de 200 pessoas;
+- Biblioteca com mais de 20.000 volumes;
+- Estúdio completo de AV;
+- Praça de alimentação;
+- Estacionamento integrado;
+- Acesso total a deficientes físicos.
 
  ---
 
- - [Facebook](https://www.facebook.com/FacImpacta/)
- - [Instagram](https://www.instagram.com/faculdadeimpacta/)
- - [Linkedin](https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006)
- - [Twitter](https://twitter.com/facimpacta)
- - [Youtube](https://www.youtube.com/user/GrupoImpacta)
+- [Facebook](https://www.facebook.com/FacImpacta/)
+- [Instagram](https://www.instagram.com/faculdadeimpacta/)
+- [Linkedin](https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006)
+- [Twitter](https://twitter.com/facimpacta)
+- [Youtube](https://www.youtube.com/user/GrupoImpacta)
 
 2019 Faculdade Impacta 11 3254-8300 Todos os direitos reservados.
