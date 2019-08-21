@@ -86,3 +86,13 @@ Duração: *4 semestres*
     - Desenvolvimento para Internet das Coisas - IOT: 80 horas
     - Legislação e Ética: 40 horas
     - OPE 2 - Oficina Projeto de Empesa 2 : 80 horas
+
+---
+
+ - [Facebook](https://www.facebook.com/FacImpacta/)
+ - [Instagram](https://www.instagram.com/faculdadeimpacta/)
+ - [Linkedin](https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006)
+ - [Twitter](https://twitter.com/facimpacta)
+ - [Youtube](https://www.youtube.com/user/GrupoImpacta)
+
+2019 Faculdade Impacta 11 3254-8300 Todos os direitos reservados.

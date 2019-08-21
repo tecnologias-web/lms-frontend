@@ -19,3 +19,13 @@ Essa página deve conter um formulário de recuperação de senha, com os seguin
  - **confirma-senha**: campo do tipo senha, no máximo 15 caracteres, obrigatório.
 
 Ao enviar os dados, deve redirecionar para a [home](index.md)
+
+---
+
+ - [Facebook](https://www.facebook.com/FacImpacta/)
+ - [Instagram](https://www.instagram.com/faculdadeimpacta/)
+ - [Linkedin](https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006)
+ - [Twitter](https://twitter.com/facimpacta)
+ - [Youtube](https://www.youtube.com/user/GrupoImpacta)
+
+2019 Faculdade Impacta 11 3254-8300 Todos os direitos reservados.

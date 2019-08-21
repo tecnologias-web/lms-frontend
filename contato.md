@@ -29,3 +29,13 @@ Aqui constará o formulário de contato. Esse formulário deve possuir os seguin
     - *Outros (O)*
 
 Ao enviar a mensagem, deve redirecionar a página para a [página de agradecimento](agradecimento.md)
+
+---
+
+ - [Facebook](https://www.facebook.com/FacImpacta/)
+ - [Instagram](https://www.instagram.com/faculdadeimpacta/)
+ - [Linkedin](https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006)
+ - [Twitter](https://twitter.com/facimpacta)
+ - [Youtube](https://www.youtube.com/user/GrupoImpacta)
+
+2019 Faculdade Impacta 11 3254-8300 Todos os direitos reservados.

@@ -21,4 +21,14 @@ Aqui deve constar o formulário de login do sistema. Ele deve conter os seguinte
 
 Além disso deve existir um link que leve para a página de [esqueci a senha](esqueci.md).
 
-Ao enviar os dados, deve redirecionar para a home.
+Ao enviar os dados, deve redirecionar para a [home](index.md).
+
+---
+
+ - [Facebook](https://www.facebook.com/FacImpacta/)
+ - [Instagram](https://www.instagram.com/faculdadeimpacta/)
+ - [Linkedin](https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006)
+ - [Twitter](https://twitter.com/facimpacta)
+ - [Youtube](https://www.youtube.com/user/GrupoImpacta)
+
+2019 Faculdade Impacta 11 3254-8300 Todos os direitos reservados.
