@@ -4,7 +4,7 @@
 
 Faça já a sua inscrição e garanta o seu futuro.
 
-[Inscreva-se Já!]()
+[Inscreva-se Já!](inscrever.md)
 
 ## Prêmios e Reconhecimentos
 
