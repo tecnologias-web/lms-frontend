@@ -1,19 +1,19 @@
 # Home
 
- - [Home](index.md)
- - Cursos
-    - [Análise e Desenvolvimento de Sistemas](cursos/ads.md)
-    - [Sistemas da Informação](cursos/si.md)
-    - [Redes de Computadores](cursos/rc.md)
-    - [Administração](cursos/adm.md)
- - [Sobre](sobre.md)
- - [Contato](contato.md)
- - [Inscreva-se](inscrever.md)
- - [Entrar](entrar.md)
+- [Home](index.md)
+- Cursos
+  - [Análise e Desenvolvimento de Sistemas](cursos/ads.md)
+  - [Sistemas da Informação](cursos/si.md)
+  - [Redes de Computadores](cursos/rc.md)
+  - [Administração](cursos/adm.md)
+- [Sobre](sobre.md)
+- [Contato](contato.md)
+- [Inscreva-se](inscrever.md)
+- [Entrar](entrar.md)
 
 ---
 
-## Vestibular para o próximo semestre!
+## Vestibular para o próximo semestre
 
 Faça já a sua inscrição e garanta o seu futuro.
 
@@ -65,11 +65,12 @@ Nota 4 na avaliação do ENADE/MEC - 3.º melhor curso da cidade de São Paulo.
 
 [Confirma mais sobre o curso](cursos/si.md)
 
-## Conheça o Smartclass 
+## Conheça o Smartclass
 
 ![play do smartclass](imagens/play-smartclass.jpg)
 
-As salas de aula da Faculdade Impacta são equipadas com lousas eletrônicas, que capturam todos os pontos das aulas presenciais, como voz, escrita dinâmica, vídeos e navegação do professor. Todo o conteúdo é gravado e disponibilizado em uma sala de ensino virtual para que o aluno assista quando e onde quiser, de qualquer plataforma digital.
+As salas de aula da Faculdade Impacta são equipadas com lousas eletrônicas, que capturam todos os pontos das aulas presenciais, como voz, escrita dinâmica, vídeos e navegação do professor. Todo o conteúdo é gravado e disponibilizado em uma sala de ensino virtual para que o aluno assista quando e onde quiser, de qualquer plataforma digital.  
+Sempre disponível para consulta dos alunos!
 
 ## Impacta Empreenda 360 Graus
 
@@ -79,10 +80,10 @@ Alguns cases de sucesso já foram realizados por alunos Impacta, como o Projeto 
 
 ---
 
- - [Facebook](https://www.facebook.com/FacImpacta/)
- - [Instagram](https://www.instagram.com/faculdadeimpacta/)
- - [Linkedin](https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006)
- - [Twitter](https://twitter.com/facimpacta)
- - [Youtube](https://www.youtube.com/user/GrupoImpacta)
+- [Facebook](https://www.facebook.com/FacImpacta/)
+- [Instagram](https://www.instagram.com/faculdadeimpacta/)
+- [Linkedin](https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006)
+- [Twitter](https://twitter.com/facimpacta)
+- [Youtube](https://www.youtube.com/user/GrupoImpacta)
 
 2019 Faculdade Impacta 11 3254-8300 Todos os direitos reservados.

@@ -1,15 +1,28 @@
 # Redes de Computadores
 
 - [Home](../index.md)
- - Cursos
-    - [Análise e Desenvolvimento de Sistemas](ads.md)
-    - [Sistemas da Informação](si.md)
-    - [Redes de Computadores](rc.md)
-    - [Administração](adm.md)
- - [Sobre](../sobre.md)
- - [Contato](../contato.md)
- - [Inscreva-se](../inscrever.md)
- - [Entrar](../entrar.md)
+- Cursos
+  - [Análise e Desenvolvimento de Sistemas](ads.md)
+  - [Sistemas da Informação](si.md)
+  - [Redes de Computadores](rc.md)
+  - [Administração](adm.md)
+- [Sobre](../sobre.md)
+- [Contato](../contato.md)
+- [Inscreva-se](../inscrever.md)
+- [Entrar](../entrar.md)
+
+---
+
+## Conteúdo
+
+- [Redes de Computadores](#redes-de-computadores)
+  - [Conteúdo](#conte%c3%bado)
+  - [Sobre o Curso](#sobre-o-curso)
+    - [Parceria Cisco](#parceria-cisco)
+  - [Informações](#informa%c3%a7%c3%b5es)
+    - [Período](#per%c3%adodo)
+    - [Investimento](#investimento)
+  - [Matriz Curricular](#matriz-curricular)
 
 ---
 
@@ -39,17 +52,17 @@ Além disso, o aluno poderá se preparar para algumas certificações da CISCO e
 
 ## Informações
 
-**TECNÓLOGO**
+**Tipo de Curso**: Tecnólogo
 
 **Coordenador**: Bruno Luis Soares de Lima
 
-### Período:
+### Período
 
 1. **Noturno** | 19h00 às 22h40 |
 
 Duração: *4 semestres*
 
-### Quanto vou investir no meu futuro?
+### Investimento
 
 | Período | Investimento |
 |---------|--------------|
@@ -58,56 +71,56 @@ Duração: *4 semestres*
 
 ## Matriz Curricular
 
- - 1º Semestre:
+- 1º Semestre:
 
-    - Administração de Redes e Sistemas: 80 horas
-    - Arquitetura de Redes de Computadores: 80 horas
-    - Cabeamento Estruturado: 80 horas
-    - Comunicação e Expressão (EAD): 80 horas
-    - Fundamentos de Sistemas Operacionais: 40 horas
-    - Introdução a Internet das Coisas - IOT: 80 horas
-    - Libras: 40 horas
-    - Programação em Redes: 80 horas
+  - Administração de Redes e Sistemas: 80 horas
+  - Arquitetura de Redes de Computadores: 80 horas
+  - Cabeamento Estruturado: 80 horas
+  - Comunicação e Expressão (EAD): 80 horas
+  - Fundamentos de Sistemas Operacionais: 40 horas
+  - Introdução a Internet das Coisas - IOT: 80 horas
+  - Libras: 40 horas
+  - Programação em Redes: 80 horas
 
- - 2º Semestre:
+- 2º Semestre:
 
-    - Administração de Redes e Sistemas Operacionais Livres: 40 horas
-    - Ambiente de Desenvolvimento e Operação -DevOps: 80 horas
-    - Gestão de Projetos: 40 horas
-    - Gestão de TI: 80 horas
-    - OPE1 - Oficina de Projeto Empresa 1: 40 horas
-    - Redes de Longa Distância: 40 horas
-    - Routing: 80 horas
-    - Segurança em Infraestrutura: 80 horas
+  - Administração de Redes e Sistemas Operacionais Livres: 40 horas
+  - Ambiente de Desenvolvimento e Operação -DevOps: 80 horas
+  - Gestão de Projetos: 40 horas
+  - Gestão de TI: 80 horas
+  - OPE1 - Oficina de Projeto Empresa 1: 40 horas
+  - Redes de Longa Distância: 40 horas
+  - Routing: 80 horas
+  - Segurança em Infraestrutura: 80 horas
 
- - 3º Semestre:
+- 3º Semestre:
 
-    - Comunicação de Dados: 40 horas
-    - Diagnóstico e Gerenciamento de Redes: 80 horas
-    - Legislação e Ética: 40 horas
-    - Libras: 40 horas
-    - OPE 2 - Oficina Projeto de Empesa 2 : 40 horas
-    - Redes Convergentes: 80 horas
-    - Segurança em Sistemas: 80 horas
-    - Sociedade e Sustentabilidade: 40 horas
-    - Switching: 80 horas
+  - Comunicação de Dados: 40 horas
+  - Diagnóstico e Gerenciamento de Redes: 80 horas
+  - Legislação e Ética: 40 horas
+  - Libras: 40 horas
+  - OPE 2 - Oficina Projeto de Empesa 2 : 40 horas
+  - Redes Convergentes: 80 horas
+  - Segurança em Sistemas: 80 horas
+  - Sociedade e Sustentabilidade: 40 horas
+  - Switching: 80 horas
 
- - 4º Semestre:
+- 4º Semestre:
 
-    - Auditoria e Controle em TI: 40 horas
-    - Computação em Nuvem: 80 horas
-    - Comunicações Móveis: 80 horas
-    - OPE 3 - Oficina Projeto de Empesa 3: 120 horas
-    - Redes IPV6: 80 horas
-    - Serviços em Redes de Computadores: 80 horas
-    - Tópicos Especiais em Redes de Computadores: 40 horas
+  - Auditoria e Controle em TI: 40 horas
+  - Computação em Nuvem: 80 horas
+  - Comunicações Móveis: 80 horas
+  - OPE 3 - Oficina Projeto de Empesa 3: 120 horas
+  - Redes IPV6: 80 horas
+  - Serviços em Redes de Computadores: 80 horas
+  - Tópicos Especiais em Redes de Computadores: 40 horas
 
 ---
 
- - [Facebook](https://www.facebook.com/FacImpacta/)
- - [Instagram](https://www.instagram.com/faculdadeimpacta/)
- - [Linkedin](https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006)
- - [Twitter](https://twitter.com/facimpacta)
- - [Youtube](https://www.youtube.com/user/GrupoImpacta)
+- [Facebook](https://www.facebook.com/FacImpacta/)
+- [Instagram](https://www.instagram.com/faculdadeimpacta/)
+- [Linkedin](https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006)
+- [Twitter](https://twitter.com/facimpacta)
+- [Youtube](https://www.youtube.com/user/GrupoImpacta)
 
 2019 Faculdade Impacta 11 3254-8300 Todos os direitos reservados.
