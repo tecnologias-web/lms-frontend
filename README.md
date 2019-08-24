@@ -16,8 +16,8 @@ O branch *master* contém a versão mais atual do código, que é revisado todo 
 
 Os branchs estão dividos então da seguinte maneira:
 
- - [Master](https://github.com/tecnologias-web/lms-frontend): Código mais atual e navegável.
- - [Aula01 - HTML](https://github.com/tecnologias-web/lms-frontend/tree/Aula01-HTML): Páginas escritas utilizando o Markdown para serem convertidas para HTML.
- - [Aula02 - Forms](https://github.com/tecnologias-web/lms-frontend/tree/Aula02-Forms): Construção de formulários através de descrições.
+- [Master](https://github.com/tecnologias-web/lms-frontend): Código mais atual e navegável.
+- [Aula01 - HTML](https://github.com/tecnologias-web/lms-frontend/tree/Aula01-HTML): Páginas escritas utilizando o Markdown para serem convertidas para HTML.
+- [Aula02 - Forms](https://github.com/tecnologias-web/lms-frontend/tree/Aula02-Forms): Construção de formulários através de descrições.
 
 ## Contribuição
