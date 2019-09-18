@@ -1,0 +1,9 @@
+aside.matricule-se {
+    background-color: var(--cor-cinza);
+}
+
+article.premio {
+    background-color: var(--cor-escuro);
+    color: var(--cor-claro);
+    text-align: center;
+}

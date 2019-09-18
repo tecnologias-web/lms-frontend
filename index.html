@@ -2,12 +2,14 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="css/site.css" />
+        <link rel="stylesheet" href="css/index.css" />
         <title>Faculdade Impacta - Home</title>
     </head>
     <body>
-        <header>
-            <nav>
+        <header class="cabecalho">
+            <nav class="menu-principal"> 
                 <ul>
                     <li>
                         <a href="index.html">
@@ -16,51 +18,51 @@
                     </li>
                     <li>
                         Cursos
-                        <ul>
+                        <ul class="dropdown-menu">
                             <li>
-                                <a href="cursos/ads.html">Análise e Desenvolvimento de Sistemas</a>
+                                <a href="cursos/ads.html" class="link-navegacao">Análise e Desenvolvimento de Sistemas</a>
                             </li>
                             <li>
-                                <a href="cursos/si.html">Sistemas a Informação</a>
+                                <a href="cursos/si.html" class="link-navegacao">Sistemas a Informação</a>
                             </li>
                             <li>
-                                <a href="cursos/rc.html">Redes de Computadores</a>
+                                <a href="cursos/rc.html" class="link-navegacao">Redes de Computadores</a>
                             </li>
                             <li>
-                                <a href="cursos/adm.html">Administração</a>
+                                <a href="cursos/adm.html" class="link-navegacao">Administração</a>
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a href="sobre.html">Sobre</a>
+                        <a href="sobre.html" class="link-navegacao">Sobre</a>
                     </li>
                     <li>
-                        <a href="contato.html">Contato</a>
+                        <a href="contato.html" class="link-navegacao">Contato</a>
                     </li>
                     <li>
-                        <a href="inscrever.html">Inscreva-se</a>
+                        <a href="inscrever.html" class="botao botao-invertido-sucesso">Inscreva-se</a>
                     </li>
                     <li>
-                        <a href="entrar.html">Entrar</a>
+                        <a href="entrar.html" class="botao botao-invertido-principal">Entrar</a>
                     </li>
                 </ul>
             </nav>
         </header>
         <main>
             <h1>Faculdade Impacta de Tecnologia</h1>
-            <aside>
+            <aside class="matricule-se">
                 <h2>Vestibular para o próximo semestre</h2>
                 <p>
                     Faça já a sua inscrição e garanta o seu futuro.
                 </p>
-                <a href="inscrever.html">Inscreva-se Já!</a>
+                <a href="inscrever.html" class="botao botao-principal">Inscreva-se Já!</a>
             </aside>
             <section>
                 <h2>Prêmios e Reconhecimentos</h2>
-                <article>
+                <article class="premio">
                     <h3>Top 10 ENADE/MEC SP</h3>
                     <img src="imagens/premios/enade-ADM.png" alt="Prêmio de Top 10 ENADE/MEC SP" />
-                    <h4>Graduação em Administração</h4>
+                    <h4 class="titulo-curso">Graduação em Administração</h4>
                     <p>
                         Nota 4 na avaliação do MEC – 10.ª maior nota entre as faculdades privadas da cidade de São Paulo.
                     </p>
@@ -70,34 +72,34 @@
                     <p>
                         Destaque no portal da Revista Exame como o curso que está entre os melhores do Brasil. (06/2017)
                     </p>                    
-                    <a href="cursos/adm.html">Confira mais sobre o curso</a>
+                    <a href="cursos/adm.html" class="botao botao-principal">Confira mais sobre o curso</a>
                 </article>
-                <article>
+                <article class="premio">
                     <h3>Maior Nota ENADE SP</h3>
                     <img alt="Maior nota ENADE/MEC SP" src="imagens/premios/enade-ADS.png" />
-                    <h4>Graduação em Análise e Desenvolvimento de Sistemas</h4>
+                    <h4 class="titulo-curso">Graduação em Análise e Desenvolvimento de Sistemas</h4>
                     <p>
                         Nota 4 na avaliação do ENADE/MEC - 1.º melhor curso da cidade de São Paulo.
                     </p>
-                    <a href="cursos/ads.html">Confira mais sobre o curso</a>
+                    <a href="cursos/ads.html" class="botao botao-principal">Confira mais sobre o curso</a>
                 </article>
-                <article>
+                <article class="premio">
                     <h3>Top 4 ENADE/MEC SP</h3>
                     <img alt="Top 4 ENADE/MEC SP" src="imagens/premios/enade-RD.png" />
-                    <h4>Graduação em Redes de Computadores</h4>
+                    <h4 class="titulo-curso">Graduação em Redes de Computadores</h4>
                     <p>
                         Nota 3 na avaliação do ENADE/MEC - 4.º melhor curso da cidade de São Paulo.
                     </p>
-                    <a href="cursos/rc.html">Confira mais sobre o curso</a>
+                    <a href="cursos/rc.html" class="botao botao-principal">Confira mais sobre o curso</a>
                 </article>
-                <article>
+                <article class="premio">
                     <h3>Top 3 ENADE/MEC SP</h3>
                     <img alt="Top 3 ENADE/MEC SP" src="imagens/premios/enade-SI.png" />
-                    <h4>Graduação em Sistemas da Informação</h4>
+                    <h4 class="titulo-curso">Graduação em Sistemas da Informação</h4>
                     <p>
                         Nota 4 na avaliação do ENADE/MEC - 3.º melhor curso da cidade de São Paulo.
                     </p>
-                    <a href="cursos/si.html">Confira mais sobre o curso</a>
+                    <a href="cursos/si.html" class="botao botao-principal">Confira mais sobre o curso</a>
                 </article>
             </section>
             <section>
@@ -118,23 +120,23 @@
                 </p>
             </section>
         </main>
-        <footer>
+        <footer class="rodape">
             <ul>
                 <li>
-                    <a href="https://www.facebook.com/FacImpacta/" target="blank">Facebook</a>
+                    <a href="https://www.facebook.com/FacImpacta/" class="social-link facebook" target="blank">Facebook</a>
                 </li>
                 <li>
-                    <a href="https://www.instagram.com/faculdadeimpacta/" target="blank">Instagram</a>
+                    <a href="https://www.instagram.com/faculdadeimpacta/" class="social-link instagram" target="blank">Instagram</a>
                 </li>
                 
                 <li>
-                    <a href="https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006/" target="blank">Linkedin</a>
+                    <a href="https://www.linkedin.com/edu/faculdade-impacta-tecnologia-161006/" class="social-link linkedin" target="blank">Linkedin</a>
                 </li>
                 <li>
-                    <a href="https://twitter.com/facimpacta/" target="blank">Twitter</a>
+                    <a href="https://twitter.com/facimpacta/" class="social-link twitter" target="blank">Twitter</a>
                 </li>
                 <li>
-                    <a href="https://www.youtube.com/user/GrupoImpacta/" target="blank">Youtube</a>
+                    <a href="https://www.youtube.com/user/GrupoImpacta/" class="social-link youtube" target="blank">Youtube</a>
                 </li>
             </ul>
             <p>2019 Faculdade Impacta 11 3254-8300 Todos os direitos reservados.</p>
