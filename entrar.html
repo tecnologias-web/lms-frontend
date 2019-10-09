@@ -44,20 +44,24 @@
         </header>
         <main>
             <h1>Entrar</h1>
-            <p>
-                Aqui deve constar o formulário de login do sistema. Ele deve conter os seguintes campos:
-            </p>
-            <ul>
-                <li><strong>usuario</strong>: caixa de texto simples, no máximo 50 caracteres, obrigatório.</li>
-                <li><strong>senha</strong>: caixa de senha, no máximo 15 caracteres, obrigatório.</li>
-                <li><strong>lembrar</strong>: caixa de seleção desmarcável para manter o login do usuário.</li>
-            </ul>    
-            <p>
-                Além disso deve existir um link que leve para a página de <a href="esqueci.html">esqueci a senha</a>.
-            </p>
-            <p>
-                Ao enviar os dados, deve redirecionar para a <a href="index.html">home</a>.
-            </p>
+            <form action="index.html" method="POST">
+                <div>
+                    <label for="entrar-usuario">Usuário</label>
+                    <input type="text" id="entrar-usuario" name="usuario" maxlength="50" required />
+                </div>
+                <div>
+                    <label for="entrar-senha">Senha</label>
+                    <input type="password" id="entrar-senha" name="senha" maxlength="15" required />
+                </div>
+                <div>
+                    <label for="entrar-lembrar">Lembrar de Senha?</label>
+                    <input type="checkbox" id="entrar-lembrar" name="lembrar" value="S" />
+                </div>
+                <div>
+                    <button type="submit">Entrar</button> 
+                    <a href="esqueci.html">Esqueci a senha</a>
+                </div>
+            </form>
         </main>
         <footer>
             <ul>

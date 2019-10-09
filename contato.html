@@ -48,34 +48,44 @@
         </header>
         <main>
             <h1>Entre em Contato!</h1>
-            <p>
-                Aqui constará o formulário de contato. Esse formulário deve possuir os seguintes campos:
-            </p>
-            <ul>
-                <li><strong>nome-completo</strong>: deve capturar um texto de única linha de até 120 caracteres, obrigatório.</li>
-                <li><strong>email</strong>: deve capturar um e-mail válido, obrigatório.</li>
-                <li>
-                    <strong>assunto</strong>: deve escolher um assunto de uma caixa de seleção, obrigatório. As opções são:
-                    <ul>
-                        <li><em>Bug (B)</em></li>
-                        <li><em>Reclamação (R)</em></li>
-                        <li><em>Sugestão (S)</em></li>
-                    </ul>
-                </li>
-                <li><strong>mensagem</strong>: deve capturar uma mensagem de várias linhas de até 500 caracteres, obrigatório.</li>
-                <li>
-                    <strong>conheceu</strong>: deve capturar uma única opção de como conheceu a impacta de uma lista de opções, opcional. Os valores são:
-                    <ul>
-                        <li><em>Google (G)</em></li>
-                        <li><em>Indicação (I)</em></li>
-                        <li><em>Propaganda (P)</em></li>
-                        <li><em>Outros (O)</em></li>
-                    </ul>
-                </li>
-            </ul>
-            <p>
-                Ao enviar a mensagem, deve redirecionar a página para a <a href="agradecimento.html">página de agradecimento</a>.
-            </p>
+            <form action="agradecimento.html" method="POST">
+                <div>
+                    <label for="contato-nome-completo">Nome Completo</label>
+                    <input type="text" id="contato-nome-completo" name="nome-completo" maxlength="120" required />
+                </div>
+                <div>
+                    <label for="contato-email">E-Mail</label>
+                    <input type="email" id="contato-email" name="email" required />
+                </div>
+                <div>
+                    <label for="contato-assunto">Assunto</label>
+                    <select name="assunto" id="contato-assunto" required>
+                        <option value="">Selecione um assunto...</option>
+                        <option value="B">Bug</option>
+                        <option value="R">Reclamação</option>
+                        <option value="S">Sugestão</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="contato-mensagem">Mensagem</label>
+                    <textarea name="mensagem" id="contato-mensagem" maxlength="500" required placeholder="Digite sua mensagem de até 500 caracteres...">
+                    </textarea>
+                </div>
+                <fieldset>
+                    <legend>Como conheceu?</legend>
+                    <label for="contato-conheceu-g">Google</label>
+                    <input type="checkbox" name="conheceu" id="contato-conheceu-g" value="G" />
+                    <label for="contato-conheceu-i">Indicação</label>
+                    <input type="checkbox" name="conheceu" id="contato-conheceu-i" value="I" />
+                    <label for="contato-conheceu-p">Propaganda</label>
+                    <input type="checkbox" name="conheceu" id="contato-conheceu-p" value="P" />
+                    <label for="contato-conheceu-o">Outros</label>
+                    <input type="checkbox" name="conheceu" id="contato-conheceu-o" value="O" />
+                </fieldset>
+                <div>
+                    <button type="submit">Enviar Mensagem</button>
+                </div>
+            </form>
         </main>
         <footer>
             <ul>

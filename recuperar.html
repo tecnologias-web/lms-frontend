@@ -48,16 +48,19 @@
         </header>
         <main>
             <h1>Recupere a sua senha!</h1>
-            <p>
-                Essa página deve conter um formulário de recuperação de senha, com os seguintes campos:
-            </p>
-            <ul>
-                <li><strong>senha</strong>: campo do tipo senha, no máximo 15 caracteres, obrigatório.</li>
-                <li><strong>confirma-senha</strong>: campo do tipo senha, no máximo 15 caracteres, obrigatório.</li>
-            </ul>
-            <p>
-                Ao enviar os dados, deve redirecionar para a <a href="index.html">home</a>
-            </p>
+            <form action="index.html" method="POST">
+                <div>
+                    <label for="recuperar-senha">Senha</label>
+                    <input type="password" id="recuperar-senha" name="senha" maxlenght="15" required />
+                </div>
+                <div>
+                    <label for="recuperar-senha2">Confirmação de Senha</label>
+                    <input type="password" id="recuperar-senha2" name="senha2" maxlenght="15" required />
+                </div>
+                <div>
+                    <button type="submit">Definir Nova Senha</button> 
+                </div>
+            </form>
         </main>
         <footer>
             <ul>

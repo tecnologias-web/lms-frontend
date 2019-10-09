@@ -48,12 +48,15 @@
         </header>
         <main>
             <h1>Esqueci a Senha</h1>
-            <p>
-                Aqui deve constar o formulário para recuperação de senha. Deve conter apenas um único campo de e-mail válido, obrigatório.
-            </p>
-            <p>
-                Ao enviar os dados, deve redirecionar para a página de <a href="recuperar.html">recuperação de senha</a>.
-            </p>
+            <form action="recuperar.html" method="POST">
+                <div>
+                    <label for="esqueci-email">E-mail de Recuperação</label>
+                    <input type="email" id="esqueci-email" name="email" required />
+                </div>
+                <div>
+                    <button type="submit">Recuperar</button> 
+                </div>
+            </form>
         </main>
         <footer>
             <ul>
