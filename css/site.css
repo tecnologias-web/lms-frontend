@@ -88,5 +88,47 @@ ul.dropdown a.link-menu {
 
 /** Rodapé da Página **/
 footer {
+    align-items: center;
     background: var(--cor-cinza-escuro);
+    color: var(--cor-branca);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
 }
+
+footer p {
+    text-align: center;
+    width: 100%;
+}
+
+ul.social-media-lista {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+ul.social-media-lista li {
+    margin: 0 .1em;
+}
+
+a[href="#topo"] {
+    color: var(--cor-azul);
+    margin: 0 1em; 
+    text-decoration: none;
+}
+
+a.media-link {
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: var(--cor-branca);
+    display: inline-block;
+    height: 24px;
+    text-decoration: none;
+    text-indent: -9999px;
+    width: 24px;
+}
+
+a.media-link.facebook { background-image: url("imagens/facebook-3-64.png"); }
+a.media-link.linkedin { background-image: url("imagens/linkedin-3-64.png"); }
+a.media-link.instagram { background-image: url("imagens/instagram-64.png"); }
+a.media-link.twitter { background-image: url("imagens/twitter-3-64.png"); }
+a.media-link.youtube { background-image: url("imagens/youtube-64.png"); }
