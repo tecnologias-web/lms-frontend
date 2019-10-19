@@ -1,0 +1,92 @@
+:root {
+    --cor-azul: #007bff;
+    --cor-branca: #fff;
+    --cor-branco-cinza: #f8f9fa;
+    --cor-cinza-escuro: #6c757d;
+    --cor-preta: #343a40;
+    --cor-verde: #28a745;
+    --fonte-padrao: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html {
+    font-family: var(--fonte-padrao)
+}
+
+/** Cabeçalho de Navegação **/
+header {
+    background: var(--cor-preta);
+}
+
+ul.navegacao {
+    list-style: none;
+}
+
+li.item-menu {
+    color: var(--cor-branca);
+}
+
+a.link-menu {
+    color: var(--cor-branca);
+    text-decoration: none;
+}
+
+ul.dropdown {
+    background: var(--cor-branca);
+}
+
+ul.dropdown li.item-menu:hover {
+    background: var(--cor-branco-cinza);
+}
+
+ul.dropdown a.link-menu {
+    color: var(--cor-preta);
+}
+
+/** Botões do Sistema **/
+.botao {
+    border: 0.05em solid var(--cor-preta);
+    border-radius: 0.25em;
+    background: var(--cor-preta);
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.botao-principal {
+    border-color: var(--cor-azul);
+    background-color: var(--cor-azul);
+}
+
+.botao-principal-vazado {
+    border-color: var(--cor-azul);
+    background-color: transparent;
+    color: var(--cor-azul);
+}
+
+.botao-principal-vazado:hover {
+    border-color: var(--cor-azul);
+    background-color: var(--cor-azul);
+    color: var(--cor-branca);
+}
+
+.botao-sucesso {
+    border-color: var(--cor-verde);
+    background-color: var(--cor-verde);
+}
+
+.botao-sucesso-vazado {
+    border-color: var(--cor-verde);
+    background-color: transparent;
+    color: var(--cor-verde);
+}
+
+.botao-sucesso-vazado:hover {
+    border-color: var(--cor-verde);
+    background-color: var(--cor-verde);
+    color: var(--cor-branca);
+}
+
+/** Rodapé da Página **/
+footer {
+    background: var(--cor-cinza-escuro);
+}
