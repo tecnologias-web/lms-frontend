@@ -1,0 +1,30 @@
+aside.vestibular {
+    background: var(--cor-branco-fumaca);
+    border-radius: 0.3em;
+}
+
+aside.vestibular p.inscrever {
+    text-align: center;
+}
+
+article.premio {
+    background: var(--cor-preta);
+    color: var(--cor-branca);
+    text-align: center;
+}
+
+article.premio h4 {
+    color: var(--cor-azul);
+}
+
+img.foto-smartclass {
+    float: right;
+}
+
+section, aside {
+    font-size: 1.25em;
+}
+
+section hr {
+    clear: right;
+}

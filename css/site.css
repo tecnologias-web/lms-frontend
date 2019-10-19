@@ -2,13 +2,16 @@
     --cor-azul: #007bff;
     --cor-branca: #fff;
     --cor-branco-cinza: #f8f9fa;
+    --cor-branco-fumaca: #e9ecef;
     --cor-cinza-escuro: #6c757d;
+    --cor-grafite: #5a5a5a;
     --cor-preta: #343a40;
     --cor-verde: #28a745;
     --fonte-padrao: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 html {
+    color: var(--cor-grafite);
     font-family: var(--fonte-padrao)
 }
 
@@ -91,9 +94,6 @@ footer {
     align-items: center;
     background: var(--cor-cinza-escuro);
     color: var(--cor-branca);
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
 }
 
 footer p {
@@ -101,18 +101,8 @@ footer p {
     width: 100%;
 }
 
-ul.social-media-lista {
-    display: flex;
-    flex-flow: row nowrap;
-}
-
-ul.social-media-lista li {
-    margin: 0 .1em;
-}
-
 a[href="#topo"] {
     color: var(--cor-azul);
-    margin: 0 1em; 
     text-decoration: none;
 }
 
@@ -120,11 +110,8 @@ a.media-link {
     background-repeat: no-repeat;
     background-size: contain;
     color: var(--cor-branca);
-    display: inline-block;
-    height: 24px;
     text-decoration: none;
     text-indent: -9999px;
-    width: 24px;
 }
 
 a.media-link.facebook { background-image: url("imagens/facebook-3-64.png"); }
