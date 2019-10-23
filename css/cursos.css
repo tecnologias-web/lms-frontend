@@ -1,0 +1,49 @@
+h1, h2, h3, h4, h5, h6 {
+    color: var(--cor-azul);
+    text-transform: uppercase;
+}
+
+h1 {
+    text-align: center;
+}
+
+section.sobre {
+    border: 0.1em solid var(--cor-branco-fumaca);
+    border-radius: 0.3em;
+    background: var(--cor-branco-fumaca);
+}
+
+section.informacoes p {
+    color: var(--cor-azul);
+    font-weight: bold;
+}
+
+section.informacoes p strong, section.informacoes p em {
+    color: var(--cor-cinza-escuro);
+}
+
+table.investimento {
+    color: var(--cor-branca);
+    background: var(--cor-branco-fumaca);
+    border-collapse: collapse;
+}
+
+table.investimento th {
+    background: var(--cor-preta);
+}
+
+table.investimento tr {
+    background: var(--cor-cinza-escuro);
+    border-bottom: .1em solid var(--cor-branca);
+}
+
+table.investimento ins {
+    color: var(--cor-azul);
+    font-weight: bolder;
+}
+
+table.investimento del {
+    color: var(--cor-preta);
+    font-weight: normal;
+}
+
