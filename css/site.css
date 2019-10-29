@@ -12,8 +12,13 @@
 }
 
 html {
+    box-sizing: border-box;
     color: var(--cor-grafite);
     font-family: var(--fonte-padrao)
+}
+
+body {
+    margin: 0;
 }
 
 /** Cabeçalho de Navegação **/
@@ -22,11 +27,18 @@ header {
 }
 
 ul.navegacao {
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap;
     list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 li.item-menu {
     color: var(--cor-branca);
+    display: inline-block;
+    padding: 8px 10px;
 }
 
 a.link-menu {
@@ -36,6 +48,7 @@ a.link-menu {
 
 ul.dropdown {
     background: var(--cor-branca);
+    display: none;
 }
 
 ul.dropdown li.item-menu:hover {
@@ -53,6 +66,7 @@ ul.dropdown a.link-menu {
     background: var(--cor-preta);
     color: white;
     font-weight: 600;
+    padding: .5em 1em;
     text-decoration: none;
 }
 
