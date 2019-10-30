@@ -47,7 +47,8 @@ ul.navegacao {
 li.item-menu {
     color: var(--cor-branca);
     display: inline-block;
-    padding: 8px 10px;
+    margin: 0 .2em;
+    padding: .5em;
 }
 
 li.grupo-botao {

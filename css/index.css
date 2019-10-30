@@ -1,20 +1,46 @@
 aside.vestibular {
     background: var(--cor-branco-fumaca);
     border-radius: 0.3em;
+    padding: 4em 2em;
+}
+
+aside.vestibular h2 {
+    margin: 0;
 }
 
 aside.vestibular p.inscrever {
     text-align: center;
 }
 
+section.premios {
+    align-items: stretch;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+section.premios h2,section.premios hr {
+    width: 100%;
+}
+
 article.premio {
+    align-items: stretch;
     background: var(--cor-preta);
+    border-radius: .3em;
     color: var(--cor-branca);
+    flex: 0 1 45%;
+    margin: .5em 0;
     text-align: center;
+    padding: 2em;
+}
+
+article.premio h3 {
+    margin: 0;
 }
 
 article.premio h4 {
     color: var(--cor-azul);
+    margin: 0
 }
 
 img.foto-smartclass {

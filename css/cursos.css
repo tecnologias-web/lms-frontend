@@ -1,16 +1,34 @@
 h1, h2, h3, h4, h5, h6 {
     color: var(--cor-azul);
+    margin: 0;
     text-transform: uppercase;
 }
 
 h1 {
     text-align: center;
+    margin: .5em 0;
+    width: 100%;
+}
+
+main {
+    align-items: stretch;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
 }
 
 section.sobre {
     border: 0.1em solid var(--cor-branco-fumaca);
     border-radius: 0.3em;
     background: var(--cor-branco-fumaca);
+    flex: 1;
+    margin: 0 .3em;
+    padding: .5em;
+}
+
+section.informacoes {
+    flex: 1;
+    margin: 0 .3em;
 }
 
 section.informacoes p {
@@ -22,10 +40,18 @@ section.informacoes p strong, section.informacoes p em {
     color: var(--cor-cinza-escuro);
 }
 
+section.informacoes ol {
+    list-style: none;
+}
+
 table.investimento {
     color: var(--cor-branca);
     background: var(--cor-branco-fumaca);
     border-collapse: collapse;
+}
+
+table.investimento th, table.investimento td {
+    padding: .3em;
 }
 
 table.investimento th {
@@ -47,3 +73,6 @@ table.investimento del {
     font-weight: normal;
 }
 
+section.curriculo {
+    width: 100%;
+}
