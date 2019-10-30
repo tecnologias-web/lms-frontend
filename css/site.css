@@ -11,14 +11,23 @@
     --fonte-padrao: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-html {
+* {
     box-sizing: border-box;
+}
+
+html {
     color: var(--cor-grafite);
     font-family: var(--fonte-padrao)
 }
 
 body {
     margin: 0;
+}
+
+main {
+    width: 1074px;
+    margin: 0 auto;
+    margin-bottom: 3em;
 }
 
 /** Cabeçalho de Navegação **/
@@ -41,14 +50,54 @@ li.item-menu {
     padding: 8px 10px;
 }
 
+li.grupo-botao {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+}
+
+li.grupo-botao .botao:first-child {
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+
+li.grupo-botao .botao:last-child {
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+}
+
 a.link-menu {
     color: var(--cor-branca);
     text-decoration: none;
 }
 
+li.dropdown-item {
+    position: relative;
+    cursor: pointer;
+}
+
+li.dropdown-item:after {
+    content: '';
+    position: absolute;
+    top: 45%;
+    right: -.1em;
+    border-top: .3em solid var(--cor-branca);
+    border-left: .3em solid transparent;
+    border-right: .3em solid transparent;
+}
+
+li.dropdown-item:hover ul.dropdown {
+    display: flex;
+}
+
 ul.dropdown {
+    align-items: stretch;
     background: var(--cor-branca);
     display: none;
+    flex-flow: column nowrap;
+    position: absolute;
+    width: 18em;
+    z-index: 1;
 }
 
 ul.dropdown li.item-menu:hover {
@@ -73,6 +122,11 @@ ul.dropdown a.link-menu {
 .botao-principal {
     border-color: var(--cor-azul);
     background-color: var(--cor-azul);
+}
+
+.botao-secundario {
+    border-color: var(--cor-cinza-escuro);
+    background-color: var(--cor-cinza-escuro);
 }
 
 .botao-principal-vazado {
@@ -109,6 +163,10 @@ footer {
     align-items: center;
     background: var(--cor-cinza-escuro);
     color: var(--cor-branca);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    padding: .5em .3em;
 }
 
 footer p {
@@ -125,8 +183,12 @@ a.media-link {
     background-repeat: no-repeat;
     background-size: contain;
     color: var(--cor-branca);
+    display: block;
+    height: 16px;
+    margin: 0 .1em;
     text-decoration: none;
-    text-indent: -9999px;
+    text-indent: -9999px;    
+    width: 16px;
 }
 
 a.media-link.facebook { background-image: url("imagens/facebook-3-64.png"); }

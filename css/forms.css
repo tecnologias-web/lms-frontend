@@ -1,3 +1,37 @@
 h1 {
     text-align: center;
 }
+
+input, select, textarea {
+    background: var(--cor-branca);
+    border-radius: .2em;
+    border: .1em solid var(--cor-cinza-claro);
+    padding: .3em .2em;
+}
+
+.form-pilha {
+    border: 0;
+    margin-bottom: .5em;
+    padding: 0;
+}
+
+.form-pilha label,
+.form-pilha legend {
+    display: inline-block;
+    margin: 0;
+    margin-bottom: .2em;
+    padding-inline-start: 0;
+    padding-inline-end: 0;
+}
+
+.form-pilha input:not([type="checkbox"]):not([type="radio"]),
+.form-pilha select,
+.form-pilha textarea {
+    width: 100%;
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+}
+

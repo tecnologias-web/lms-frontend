@@ -2,8 +2,10 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <meta name="viewport" content="width=device-width, user-scalable=no">
+        <link rel="shortcut icon"href="favicon.ico" type="image/x-icon">
         <link rel="stylesheet" href="css/site.css">
+        <link rel="stylesheet" href="css/forms.css">
         <title>Faculdade Impacta - Inscrever</title>
     </head>
     <body>
@@ -38,10 +40,8 @@
                     <li class="item-menu">
                         <a class="link-menu" href="contato.html">Contato</a>
                     </li>
-                    <li class="item-menu">
+                    <li class="item-menu grupo-botao">
                         <a class="botao botao-sucesso-vazado" href="inscrever.html">Inscreva-se</a>
-                    </li>
-                    <li class="item-menu">
                         <a class="botao botao-principal-vazado" href="entrar.html">Entrar</a>
                     </li>
                 </ul>
@@ -50,40 +50,26 @@
         <main>
             <h1>Vire nosso aluno!</h1>
             <form action="index.html" method="POST">
-                <div>
+                <div class="form-pilha">
                     <label for="inscrever-usuario">Usuário</label>
                     <input type="text" id="inscrever-usuario" name="usuario" maxlenght="50" required />
                 </div>
-                <div>
+                <div class="form-pilha">
                     <label for="inscrever-nome">Nome</label>
                     <input type="text" id="inscrever-nome" name="nome" maxlenght="120" required />
                 </div>
-                <div>
+                <div class="form-pilha">
                     <label for="inscrever-email">E-Mail</label>
                     <input type="email" id="inscrever-email" name="email" required />
                 </div>
-                <div>
+                <div class="form-pilha">
                     <label for="inscrever-celular">Celular</label>
                     <input type="tel" id="inscrever-celular" name="celular" maxlenght="50" pattern="[0-9]{2} [0-9]{5}-[0-9]{4}" placeholder="11 99999-9999" required />
                 </div>
-                <div>
-                    <button type="submit">Definir Nova Senha</button> 
+                <div class="botoes">
+                    <button type="submit" class="botao botao-principal">Definir Nova Senha</button> 
                 </div>
             </form>
-            <p>
-                Aqui constará o formulário de inscrição da faculdade. 
-                Esse formulário deve capturar os seguintes campos:
-            </p>
-            <ul>
-                <li><strong>usuario</strong>: Criação de um usuário único, no máximo 50 caracteres, obrigatório.</li>
-                <li><strong>nome</strong>: Campo de texto simples, máximo 120 caracteres, obrigatório.</li>
-                <li><strong>email</strong>: Campo de e-mail válido, obrigatório.</li>
-                <li><strong>celular</strong>: Campo de texto simples, opcional.</li>
-            </ul>
-            <p>
-                Ao inscrever, deve encaminhar para a <a href="index.html">home</a>.
-            </p>
-
         </main>
         <footer>
             <ul class="navegacao social-media-lista">
